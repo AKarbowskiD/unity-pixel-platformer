@@ -28,4 +28,4 @@ I'm looking forward to creating a much more polished game during my next interns
 - Free Unity tutorials on YouTube
 - AI-generated sprites used for educational purposes
 
-![Game-Screenshot](PF1.png)
+![Game-Screenshot](Pf1.png)
