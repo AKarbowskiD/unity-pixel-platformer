@@ -29,4 +29,4 @@ I'm looking forward to creating a much more polished game during my next interns
 - AI-generated sprites used for educational purposes
 
 ## 
-![Game-Screenshot](Pf1.png)
+![Game-Screenshot](Game-Screenshot1.png)
